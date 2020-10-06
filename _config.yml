@@ -61,21 +61,21 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name     : "Soubhik Mondal"
-  avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Hi! I like to code, build, and automate."
-  location : "Kolkata, India"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/soubhik-mondal"
-    - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/3507137/soubhik-mondal"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/soubhik-mondal-57000880/"
+# author:
+#   name     : "Soubhik Mondal"
+#   avatar   : "/assets/images/bio-photo.jpg"
+#   bio      : "Hi! I like to code, build, and automate."
+#   location : "Kolkata, India"
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/soubhik-mondal"
+#     - label: "Stack Overflow"
+#       icon: "fab fa-fw fa-stack-overflow"
+#       url: "https://stackoverflow.com/users/3507137/soubhik-mondal"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/soubhik-mondal-57000880/"
 
 footer:
   links:
